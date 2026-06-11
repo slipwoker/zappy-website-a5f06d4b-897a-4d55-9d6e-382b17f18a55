@@ -1,0 +1,81 @@
+# Plan with emily — Generative Engine Optimization Map
+
+> An online stationery store specializing in paper planning products including monthly planners, notes, and to-do lists. The brand focuses on helping people organize their lives through beautifully designed paper products. The shop offers a curated selection of productivity and planning stationery items sold directly to consumers via an e-commerce platform.
+
+---
+
+## Pages
+
+### בית
+https://plan-with-emily-a5f06d4b.zappy5.app
+גלי את החנות המקוונת המובילה למוצרי נייר לתכנון זמן. יומנים חודשיים, פתקיות ורשימות מטלות בעיצוב יפהפה שיעזרו לך לארגן את החיים בקלות. היכנסי עכשיו והתחילי לתכנן!
+
+### אודות
+https://plan-with-emily-a5f06d4b.zappy5.app/about
+הכירי את החזון של Plan with emily – מותג כלי הכתיבה שמאמין בכוחו של נייר עוצמתי. אצלנו תמצאי מוצרי תכנון איכותיים שהופכים כל יום למאורגן יותר. בואי לגלות מי אנחנו!
+
+### השראה
+https://plan-with-emily-a5f06d4b.zappy5.app/inspiration
+מחפשת השראה לתכנון זמן יצירתי? היכנסי למאגר הרעיונות שלנו וגלי טיפים לשימוש ביומנים, פתקים ורשימות שיהפכו כל משימה לחוויה מעוצבת. תכנני את הזמן שלך אחרת!
+
+### צור קשר
+https://plan-with-emily-a5f06d4b.zappy5.app/contact
+יש לך שאלה על מוצרי התכנון שלנו? צרי קשר עם Plan with emily עוד היום! אנחנו כאן כדי לעזור לך לבחור את הפתרונות המושלמים לארגון הזמן שלך. כתבי לנו ונחזור במהירות.
+
+### Products
+https://plan-with-emily-a5f06d4b.zappy5.app/products
+המוצרים שלנו - Plan with emily
+
+### Product Detail
+https://plan-with-emily-a5f06d4b.zappy5.app/product/:slug
+פרטי המוצר - Plan with emily
+
+### Category
+https://plan-with-emily-a5f06d4b.zappy5.app/category/:slug
+מוצרים - Plan with emily
+
+## Legal & Policy
+
+### Privacy Policy
+https://plan-with-emily-a5f06d4b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://plan-with-emily-a5f06d4b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://plan-with-emily-a5f06d4b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Plan with emily
+An online stationery store specializing in paper planning products including monthly planners, notes, and to-do lists. The brand focuses on helping people organize their lives through beautifully designed paper products. The shop offers a curated selection of productivity and planning stationery items sold directly to consumers via an e-commerce platform.
+
+## Target Audience
+- סטודנטים מתכננים
+- מקצוענים מאורגנים
+- חובבי כתיבה יצירתית ביומנים
+- נשים
+
+## Industry
+E-commerce / Stationery & Planners
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://plan-with-emily-a5f06d4b.zappy5.app/sitemap.xml
+- Robots: https://plan-with-emily-a5f06d4b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://plan-with-emily-a5f06d4b.zappy5.app/llms-full.txt
+- Products (JSON): https://plan-with-emily-a5f06d4b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://plan-with-emily-a5f06d4b.zappy5.app/product-feed.xml
