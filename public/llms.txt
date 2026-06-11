@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://plan-with-emily-a5f06d4b.zappy5.app
+https://example.com
 גלי את החנות המקוונת המובילה למוצרי נייר לתכנון זמן. יומנים חודשיים, פתקיות ורשימות מטלות בעיצוב יפהפה שיעזרו לך לארגן את החיים בקלות. היכנסי עכשיו והתחילי לתכנן!
 
 ### אודות
-https://plan-with-emily-a5f06d4b.zappy5.app/about
+https://example.com/about
 הכירי את החזון של Plan with emily – מותג כלי הכתיבה שמאמין בכוחו של נייר עוצמתי. אצלנו תמצאי מוצרי תכנון איכותיים שהופכים כל יום למאורגן יותר. בואי לגלות מי אנחנו!
 
 ### השראה
-https://plan-with-emily-a5f06d4b.zappy5.app/inspiration
+https://example.com/inspiration
 מחפשת השראה לתכנון זמן יצירתי? היכנסי למאגר הרעיונות שלנו וגלי טיפים לשימוש ביומנים, פתקים ורשימות שיהפכו כל משימה לחוויה מעוצבת. תכנני את הזמן שלך אחרת!
 
 ### צור קשר
-https://plan-with-emily-a5f06d4b.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על מוצרי התכנון שלנו? צרי קשר עם Plan with emily עוד היום! אנחנו כאן כדי לעזור לך לבחור את הפתרונות המושלמים לארגון הזמן שלך. כתבי לנו ונחזור במהירות.
 
 ### Products
-https://plan-with-emily-a5f06d4b.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Plan with emily
 
 ### Product Detail
-https://plan-with-emily-a5f06d4b.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Plan with emily
 
 ### Category
-https://plan-with-emily-a5f06d4b.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Plan with emily
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://plan-with-emily-a5f06d4b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://plan-with-emily-a5f06d4b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://plan-with-emily-a5f06d4b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -74,8 +74,8 @@ E-commerce / Stationery & Planners
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://plan-with-emily-a5f06d4b.zappy5.app/sitemap.xml
-- Robots: https://plan-with-emily-a5f06d4b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://plan-with-emily-a5f06d4b.zappy5.app/llms-full.txt
-- Products (JSON): https://plan-with-emily-a5f06d4b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://plan-with-emily-a5f06d4b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
